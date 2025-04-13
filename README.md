@@ -3,11 +3,6 @@
 
 > A machine learning-powered event simulation engine where superheroes clash in WWE-style weekly shows filled with rivalries, interferences, championship battles, and cinematic storylines.
 
----
-
-![SHU Banner](https://via.placeholder.com/1200x300.png?text=Superhero+Wrestling+Universe+%28SHU%29+by+Sahil+Sharma)
-
----
 
 ## 📦 About the Project
 
